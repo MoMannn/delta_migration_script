@@ -1,3 +1,5 @@
+For a newer version please check: https://github.com/nadeem0035/magento_delta_migration_script
+
 This is a really simple and straightforward script. It was quickly written and is not optimized. 
 
 Its puprose is to solve a mistake I made while migrating from magento 1 to magento 2 using data migration tool.
